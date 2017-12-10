@@ -1,0 +1,44 @@
+* {
+  text-align: center;
+  color: rgb(131, 48, 148);
+  font-family: 'Mountains of Christmas', cursive;
+}
+
+h1 {
+  color: rgba(222, 238, 30, 0.83);
+  font-size: 100px;
+}
+
+body {
+  background-image: url("hpbackground.jpg");
+  background-repeat:no-repeat;
+  background-color: black;
+  background-size:cover;
+}
+
+#dropdown-students {
+  position: relative;
+  display: inline-block;
+  font-size: 25px;
+  background-color: black;
+}
+
+#dropdown-students:hover {
+  color: rgba(222, 238, 30, 0.83);
+  text-decoration: none;
+}
+
+#student {
+  font-size: 35px;
+}
+
+li {
+  text-shadow: 0 0 5px rgba(222, 238, 30, 0.83);;
+  list-style-type: none;
+
+}
+
+img {
+  width: 200px;
+  height: 250px;
+}
